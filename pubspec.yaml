@@ -1,6 +1,6 @@
 name: code_text_field
 description: A customizable code field supporting syntax highlighting, bi-directionnal scrolling and code modifiers
-version: 1.0.2
+version: 1.0.2+1
 homepage: https://github.com/BertrandBev/code_field
 publish_to: none
 
@@ -15,11 +15,12 @@ dependencies:
   highlight:
     git:
       url: git@github.com:nank1ro/highlight.dart
-      ref: v0.7.1
+      ref: v0.7.2
       path: packages/highlight
   flutter_highlight:
     git:
       url: git@github.com:nank1ro/highlight.dart
+      ref: v0.7.2
       path: packages/flutter_highlight
 
 dev_dependencies:

@@ -59,11 +59,11 @@ packages:
     dependency: "direct main"
     description:
       path: "packages/flutter_highlight"
-      ref: HEAD
-      resolved-ref: "8815fa9dc3899bc50a2791ddee7c65095d36e861"
+      ref: "v0.7.2"
+      resolved-ref: "527b64a6c7a4564932689361c39659baeac7d1b1"
       url: "git@github.com:nank1ro/highlight.dart"
     source: git
-    version: "0.7.1"
+    version: "0.7.2"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -73,11 +73,11 @@ packages:
     dependency: "direct main"
     description:
       path: "packages/highlight"
-      ref: "v0.7.1"
-      resolved-ref: "8815fa9dc3899bc50a2791ddee7c65095d36e861"
+      ref: "v0.7.2"
+      resolved-ref: "527b64a6c7a4564932689361c39659baeac7d1b1"
       url: "git@github.com:nank1ro/highlight.dart"
     source: git
-    version: "0.7.1"
+    version: "0.7.2"
   linked_scroll_controller:
     dependency: "direct main"
     description:
